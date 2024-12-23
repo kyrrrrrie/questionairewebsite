@@ -1,0 +1,1 @@
+export const changeSearchResultAction=(data:string)=>({type:'change',data})
